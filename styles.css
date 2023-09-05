@@ -1,0 +1,19 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+:root{
+    --color-blue: #729599;
+    --color-greay: #BCC5CE;
+    --color-whait: #E6DFD9;
+    --color-whait-2:#BFB3A8;
+    --color-brawn:#7A7067;
+}
+body{
+    background-color: var(--color-blue);    
+}
+header{
+    background-color: var(--color-greay);
+}
